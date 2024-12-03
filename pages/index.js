@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="INTENZ!" />
+        <Header title="INTENZ" />
         <p className="description">
-          Get started  <code>pages/index.js</code>
+          <code>pages/index.js</code>
         </p>
       </main>
 
